@@ -1,0 +1,804 @@
+{
+  "ha_noi": [
+    { "name": "Phường Hoàn Kiếm", "codename": "phuong_hoan_kiem" },
+    { "name": "Phường Ba Đình", "codename": "phuong_ba_dinh" },
+    { "name": "Phường Giảng Võ", "codename": "phuong_giang_vo" },
+    { "name": "Phường Vĩnh Tuy", "codename": "phuong_vinh_tuy" },
+    { "name": "Phường Đống Đa", "codename": "phuong_dong_da" },
+    { "name": "Phường Văn Miếu - Quốc Tử Giám", "codename": "phuong_van_mieu_quoc_tu_giam" },
+    { "name": "Phường Ô Chợ Dừa", "codename": "phuong_o_cho_dua" },
+    { "name": "Phường Lĩnh Nam", "codename": "phuong_linh_nam" },
+    { "name": "Phường Vĩnh Hưng", "codename": "phuong_vinh_hung" },
+    { "name": "Phường Định Công", "codename": "phuong_dinh_cong" },
+    { "name": "Phường Yên Sở", "codename": "phuong_yen_so" },
+    { "name": "Phường Khương Đình", "codename": "phuong_khuong_dinh" },
+    { "name": "Phường Cầu Giấy", "codename": "phuong_cau_giay" },
+    { "name": "Phường Yên Hòa", "codename": "phuong_yen_hoa" },
+    { "name": "Phường Phú Thượng", "codename": "phuong_phu_thuong" },
+    { "name": "Phường Phú Diễn", "codename": "phuong_phu_dien" },
+    { "name": "Phường Đông Ngạc", "codename": "phuong_dong_ngac" },
+    { "name": "Phường Từ Liêm", "codename": "phuong_tu_liem" },
+    { "name": "Phường Tây Mỗ", "codename": "phuong_tay_mo" },
+    { "name": "Phường Long Biên", "codename": "phuong_long_bien" },
+    { "name": "Phường Việt Hưng", "codename": "phuong_viet_hung" },
+    { "name": "Phường Hà Đông", "codename": "phuong_ha_dong" },
+    { "name": "Phường Yên Nghĩa", "codename": "phuong_yen_nghia" },
+    { "name": "Phường Kiến Hưng", "codename": "phuong_kien_hung" },
+    { "name": "Phường Chương Mỹ", "codename": "phuong_chuong_my" },
+    { "name": "Phường Tùng Thiện", "codename": "phuong_tung_thien" },
+    { "name": "Phường Cửa Nam", "codename": "phuong_cua_nam" },
+    { "name": "Phường Ngọc Hà", "codename": "phuong_ngoc_ha" },
+    { "name": "Phường Hai Bà Trưng", "codename": "phuong_hai_ba_trung" },
+    { "name": "Phường Bạch Mai", "codename": "phuong_bach_mai" },
+    { "name": "Phường Kim Liên", "codename": "phuong_kim_lien" },
+    { "name": "Phường Láng", "codename": "phuong_lang" },
+    { "name": "Phường Hồng Hà", "codename": "phuong_hong_ha" },
+    { "name": "Phường Hoàng Mai", "codename": "phuong_hoang_mai" },
+    { "name": "Phường Tương Mai", "codename": "phuong_tuong_mai" },
+    { "name": "Phường Hoàng Liệt", "codename": "phuong_hoang_liet" },
+    { "name": "Phường Thanh Xuân", "codename": "phuong_thanh_xuan" },
+    { "name": "Phường Phương Liệt", "codename": "phuong_phuong_liet" },
+    { "name": "Phường Nghĩa Đô", "codename": "phuong_nghia_do" },
+    { "name": "Phường Tây Hồ", "codename": "phuong_tay_ho" },
+    { "name": "Phường Tây Tựu", "codename": "phuong_tay_tuu" },
+    { "name": "Phường Xuân Đỉnh", "codename": "phuong_xuan_dinh" },
+    { "name": "Phường Thượng Cát", "codename": "phuong_thuong_cat" },
+    { "name": "Phường Xuân Phương", "codename": "phuong_xuan_phuong" },
+    { "name": "Phường Đại Mỗ", "codename": "phuong_dai_mo" },
+    { "name": "Phường Bồ Đề", "codename": "phuong_bo_de" },
+    { "name": "Phường Phúc Lợi", "codename": "phuong_phuc_loi" },
+    { "name": "Phường Dương Nội", "codename": "phuong_duong_noi" },
+    { "name": "Phường Phú Lương", "codename": "phuong_phu_luong" },
+    { "name": "Phường Thanh Liệt", "codename": "phuong_thanh_liet" },
+    { "name": "Phường Sơn Tây", "codename": "phuong_son_tay" },
+    { "name": "Xã Ba Vì", "codename": "xa_ba_vi" },
+    { "name": "Xã Minh Châu", "codename": "xa_minh_chau" },
+    { "name": "Xã Quảng Oai", "codename": "xa_quang_oai" },
+    { "name": "Xã Vật Lại", "codename": "xa_vat_lai" },
+    { "name": "Xã Cổ Đô", "codename": "xa_co_do" },
+    { "name": "Xã Phú Sơn", "codename": "xa_phu_son" },
+    { "name": "Xã Đồng Thái", "codename": "xa_dong_thai" },
+    { "name": "Xã Phú Châu", "codename": "xa_phu_chau" },
+    { "name": "Xã Thạch Thất", "codename": "xa_thach_that" },
+    { "name": "Xã Hòa Lạc", "codename": "xa_hoa_lac" },
+    { "name": "Xã Bình Yên", "codename": "xa_binh_yen" },
+    { "name": "Xã Tân Xã", "codename": "xa_tan_xa" },
+    { "name": "Xã Hạ Bằng", "codename": "xa_ha_bang" },
+    { "name": "Xã Đồng Trúc", "codename": "xa_dong_truc" },
+    { "name": "Xã Phúc Thọ", "codename": "xa_phuc_tho" },
+    { "name": "Xã Long Xuyên", "codename": "xa_long_xuyen" },
+    { "name": "Xã Xuân Đình", "codename": "xa_xuan_dinh" },
+    { "name": "Xã Sen Phương", "codename": "xa_sen_phuong" },
+    { "name": "Xã Võng Xuyên", "codename": "xa_vong_xuyen" },
+    { "name": "Xã Thọ Lộc", "codename": "xa_tho_loc" },
+    { "name": "Xã Đan Phượng", "codename": "xa_dan_phuong" },
+    { "name": "Xã Song Phượng", "codename": "xa_song_phuong" },
+    { "name": "Xã Liên Hà", "codename": "xa_lien_ha" },
+    { "name": "Xã Liên Trung", "codename": "xa_lien_trung" },
+    { "name": "Xã Tân Hội", "codename": "xa_tan_hoi" },
+    { "name": "Xã Hoài Đức", "codename": "xa_hoai_duc" },
+    { "name": "Xã Dương Liễu", "codename": "xa_duong_lieu" },
+    { "name": "Xã Đức Giang", "codename": "xa_duc_giang" },
+    { "name": "Xã Kim Chung", "codename": "xa_kim_chung" },
+    { "name": "Xã An Khánh", "codename": "xa_an_khanh" },
+    { "name": "Xã Đông Anh", "codename": "xa_dong_anh" },
+    { "name": "Xã Vĩnh Ngọc", "codename": "xa_vinh_ngoc" },
+    { "name": "Xã Hải Bối", "codename": "xa_hai_boi" },
+    { "name": "Xã Kim Nỗ", "codename": "xa_kim_no" },
+    { "name": "Xã Uy Nỗ", "codename": "xa_uy_no" },
+    { "name": "Xã Cổ Loa", "codename": "xa_co_loa" },
+    { "name": "Xã Tiên Dương", "codename": "xa_tien_duong" },
+    { "name": "Xã Xuân Canh", "codename": "xa_xuan_canh" },
+    { "name": "Xã Mê Linh", "codename": "xa_me_linh" },
+    { "name": "Xã Chi Đông", "codename": "xa_chi_dong" },
+    { "name": "Xã Tiền Phong", "codename": "xa_tien_phong" },
+    { "name": "Xã Tráng Việt", "codename": "xa_trang_viet" },
+    { "name": "Xã Văn Khê", "codename": "xa_van_khe" },
+    { "name": "Xã Hoàng Kim", "codename": "xa_hoang_kim" },
+    { "name": "Xã Thanh Lâm", "codename": "xa_thanh_lam" },
+    { "name": "Xã Đại Thịnh", "codename": "xa_dai_thinh" },
+    { "name": "Xã Sóc Sơn", "codename": "xa_soc_son" },
+    { "name": "Xã Nội Bài", "codename": "xa_noi_bai" },
+    { "name": "Xã Phù Lỗ", "codename": "xa_phu_lo" },
+    { "name": "Xã Tiên Dược", "codename": "xa_tien_duoc" },
+    { "name": "Xã Minh Phú", "codename": "xa_minh_phu" },
+    { "name": "Xã Bắc Sơn", "codename": "xa_bac_son" },
+    { "name": "Xã Trung Giã", "codename": "xa_trung_gia" },
+    { "name": "Xã Kim Anh", "codename": "xa_kim_anh" },
+    { "name": "Xã Đông Xuân", "codename": "xa_dong_xuan" },
+    { "name": "Xã Phú Xuyên", "codename": "xa_phu_xuyen" },
+    { "name": "Xã Phượng Dực", "codename": "xa_phuong_duc" },
+    { "name": "Xã Văn Nhân", "codename": "xa_van_nhan" },
+    { "name": "Xã Nam Tiến", "codename": "xa_nam_tien" },
+    { "name": "Xã Tri Trung", "codename": "xa_tri_trung" },
+    { "name": "Xã Đại Xuyên", "codename": "xa_dai_xuyen" },
+    { "name": "Xã Phú Túc", "codename": "xa_phu_tuc" },
+    { "name": "Xã Ứng Hòa", "codename": "xa_ung_hoa" },
+    { "name": "Xã Vân Đình", "codename": "xa_van_dinh" },
+    { "name": "Xã Hòa Xá", "codename": "xa_hoa_xa" },
+    { "name": "Xã Cao Thành", "codename": "xa_cao_thanh" },
+    { "name": "Xã Đại Hùng", "codename": "xa_dai_hung" },
+    { "name": "Xã Lưu Hoàng", "codename": "xa_luu_hoang" },
+    { "name": "Xã Mỹ Đức", "codename": "xa_my_duc" },
+    { "name": "Xã Đại Nghĩa", "codename": "xa_dai_nghia" },
+    { "name": "Xã Hương Sơn", "codename": "xa_huong_son" },
+    { "name": "Xã Phúc Sơn", "codename": "xa_phuc_son" },
+    { "name": "Xã An Phú", "codename": "xa_an_phu" },
+    { "name": "Xã Hồng Sơn", "codename": "xa_hong_son" },
+    { "name": "Xã Phùng Xá", "codename": "xa_phung_xa" }
+  ],
+  "tp_hcm" :[
+    {
+        "name": "Phường Sài Gòn",
+        "codename": "phuong_sai_gon"
+    },
+    {
+        "name": "Phường Tân Định",
+        "codename": "phuong_tan_dinh"
+    },
+    {
+        "name": "Phường Bến Thành",
+        "codename": "phuong_ben_thanh"
+    },
+    {
+        "name": "Phường Cầu Ông Lãnh",
+        "codename": "phuong_cau_ong_lanh"
+    },
+    {
+        "name": "Phường Bàn Cờ",
+        "codename": "phuong_ban_co"
+    },
+    {
+        "name": "Phường Xuân Hòa",
+        "codename": "phuong_xuan_hoa"
+    },
+    {
+        "name": "Phường Nhiêu Lộc",
+        "codename": "phuong_nhieu_loc"
+    },
+    {
+        "name": "Phường Xóm Chiếu",
+        "codename": "phuong_xom_chieu"
+    },
+    {
+        "name": "Phường Khánh Hội",
+        "codename": "phuong_khanh_hoi"
+    },
+    {
+        "name": "Phường Vĩnh Hội",
+        "codename": "phuong_vinh_hoi"
+    },
+    {
+        "name": "Phường Chợ Quán",
+        "codename": "phuong_cho_quan"
+    },
+    {
+        "name": "Phường An Đông",
+        "codename": "phuong_an_dong"
+    },
+    {
+        "name": "Phường Chợ Lớn",
+        "codename": "phuong_cho_lon"
+    },
+    {
+        "name": "Phường Bình Tây",
+        "codename": "phuong_binh_tay"
+    },
+    {
+        "name": "Phường Bình Tiên",
+        "codename": "phuong_binh_tien"
+    },
+    {
+        "name": "Phường Bình Phú",
+        "codename": "phuong_binh_phu"
+    },
+    {
+        "name": "Phường Phú Lâm",
+        "codename": "phuong_phu_lam"
+    },
+    {
+        "name": "Phường Tân Thuận",
+        "codename": "phuong_tan_thuan"
+    },
+    {
+        "name": "Phường Phú Thuận",
+        "codename": "phuong_phu_thuan"
+    },
+    {
+        "name": "Phường Tân Mỹ",
+        "codename": "phuong_tan_my"
+    },
+    {
+        "name": "Phường Tân Hưng",
+        "codename": "phuong_tan_hung"
+    },
+    {
+        "name": "Phường Chánh Hưng",
+        "codename": "phuong_chanh_hung"
+    },
+    {
+        "name": "Phường Phú Định",
+        "codename": "phuong_phu_dinh"
+    },
+    {
+        "name": "Phường Bình Đông",
+        "codename": "phuong_binh_dong"
+    },
+    {
+        "name": "Phường Diên Hồng",
+        "codename": "phuong_dien_hong"
+    },
+    {
+        "name": "Phường Vườn Lài",
+        "codename": "phuong_vuon_lai"
+    },
+    {
+        "name": "Phường Hòa Hưng",
+        "codename": "phuong_hoa_hung"
+    },
+    {
+        "name": "Phường Minh Phụng",
+        "codename": "phuong_minh_phung"
+    },
+    {
+        "name": "Phường Bình Thới",
+        "codename": "phuong_binh_thoi"
+    },
+    {
+        "name": "Phường Hòa Bình",
+        "codename": "phuong_hoa_binh"
+    },
+    {
+        "name": "Phường Phú Thọ",
+        "codename": "phuong_phu_tho"
+    },
+    {
+        "name": "Phường Đông Hưng Thuận",
+        "codename": "phuong_dong_hung_thuan"
+    },
+    {
+        "name": "Phường Trung Mỹ Tây",
+        "codename": "phuong_trung_my_tay"
+    },
+    {
+        "name": "Phường Tân Thới Hiệp",
+        "codename": "phuong_tan_thoi_hiep"
+    },
+    {
+        "name": "Phường Thới An",
+        "codename": "phuong_thoi_an"
+    },
+    {
+        "name": "Phường An Phú Đông",
+        "codename": "phuong_an_phu_dong"
+    },
+    {
+        "name": "Phường An Lạc",
+        "codename": "phuong_an_lac"
+    },
+    {
+        "name": "Phường Bình Tân",
+        "codename": "phuong_binh_tan"
+    },
+    {
+        "name": "Phường Tân Tạo",
+        "codename": "phuong_tan_tao"
+    },
+    {
+        "name": "Phường Bình Trị Đông",
+        "codename": "phuong_binh_tri_dong"
+    },
+    {
+        "name": "Phường Bình Hưng Hòa",
+        "codename": "phuong_binh_hung_hoa"
+    },
+    {
+        "name": "Phường Gia Định",
+        "codename": "phuong_gia_dinh"
+    },
+    {
+        "name": "Phường Bình Thạnh",
+        "codename": "phuong_binh_thanh"
+    },
+    {
+        "name": "Phường Bình Lợi Trung",
+        "codename": "phuong_binh_loi_trung"
+    },
+    {
+        "name": "Phường Thạnh Mỹ Tây",
+        "codename": "phuong_thanh_my_tay"
+    },
+    {
+        "name": "Phường Bình Quới",
+        "codename": "phuong_binh_quoi"
+    },
+    {
+        "name": "Phường Hạnh Thông",
+        "codename": "phuong_hanh_thong"
+    },
+    {
+        "name": "Phường An Nhơn",
+        "codename": "phuong_an_nhon"
+    },
+    {
+        "name": "Phường Gò Vấp",
+        "codename": "phuong_go_vap"
+    },
+    {
+        "name": "Phường An Hội Đông",
+        "codename": "phuong_an_hoi_dong"
+    },
+    {
+        "name": "Phường Thông Tây Hội",
+        "codename": "phuong_thong_tay_hoi"
+    },
+    {
+        "name": "Phường An Hội Tây",
+        "codename": "phuong_an_hoi_tay"
+    },
+    {
+        "name": "Phường Đức Nhuận",
+        "codename": "phuong_duc_nhuan"
+    },
+    {
+        "name": "Phường Cầu Kiệu",
+        "codename": "phuong_cau_kieu"
+    },
+    {
+        "name": "Phường Phú Nhuận",
+        "codename": "phuong_phu_nhuan"
+    },
+    {
+        "name": "Phường Tân Sơn Hòa",
+        "codename": "phuong_tan_son_hoa"
+    },
+    {
+        "name": "Phường Tân Sơn Nhất",
+        "codename": "phuong_tan_son_nhat"
+    },
+    {
+        "name": "Phường Tân Hòa",
+        "codename": "phuong_tan_hoa"
+    },
+    {
+        "name": "Phường Bảy Hiền",
+        "codename": "phuong_bay_hien"
+    },
+    {
+        "name": "Phường Tân Bình",
+        "codename": "phuong_tan_binh"
+    },
+    {
+        "name": "Phường Tân Sơn",
+        "codename": "phuong_tan_son"
+    },
+    {
+        "name": "Phường Tây Thạnh",
+        "codename": "phuong_tay_thanh"
+    },
+    {
+        "name": "Phường Tân Sơn Nhì",
+        "codename": "phuong_tan_son_nhi"
+    },
+    {
+        "name": "Phường Phú Thọ Hòa",
+        "codename": "phuong_phu_tho_hoa"
+    },
+    {
+        "name": "Phường Tân Phú",
+        "codename": "phuong_tan_phu"
+    },
+    {
+        "name": "Phường Phú Thạnh",
+        "codename": "phuong_phu_thanh"
+    },
+    {
+        "name": "Phường Hiệp Bình",
+        "codename": "phuong_hiep_binh"
+    },
+    {
+        "name": "Phường Thủ Đức",
+        "codename": "phuong_thu_duc"
+    },
+    {
+        "name": "Phường Tam Bình",
+        "codename": "phuong_tam_binh"
+    },
+    {
+        "name": "Phường Linh Xuân",
+        "codename": "phuong_linh_xuan"
+    },
+    {
+        "name": "Phường Tăng Nhơn Phú",
+        "codename": "phuong_tang_nhon_phu"
+    },
+    {
+        "name": "Phường Long Bình",
+        "codename": "phuong_long_binh"
+    },
+    {
+        "name": "Phường Long Phước",
+        "codename": "phuong_long_phuoc"
+    },
+    {
+        "name": "Phường Long Trường",
+        "codename": "phuong_long_truong"
+    },
+    {
+        "name": "Phường Cát Lái",
+        "codename": "phuong_cat_lai"
+    },
+    {
+        "name": "Phường Bình Trưng",
+        "codename": "phuong_binh_trung"
+    },
+    {
+        "name": "Phường Phước Long",
+        "codename": "phuong_phuoc_long"
+    },
+    {
+        "name": "Phường An Khánh",
+        "codename": "phuong_an_khanh"
+    },
+    {
+        "name": "Phường Đông Hòa",
+        "codename": "phuong_dong_hoa"
+    },
+    {
+        "name": "Phường Dĩ An",
+        "codename": "phuong_di_an"
+    },
+    {
+        "name": "Phường Tân Đông Hiệp",
+        "codename": "phuong_tan_dong_hiep"
+    },
+    {
+        "name": "Phường An Phú",
+        "codename": "phuong_an_phu"
+    },
+    {
+        "name": "Phường Bình Hòa",
+        "codename": "phuong_binh_hoa"
+    },
+    {
+        "name": "Phường Lái Thiêu",
+        "codename": "phuong_lai_thieu"
+    },
+    {
+        "name": "Phường Thuận An",
+        "codename": "phuong_thuan_an"
+    },
+    {
+        "name": "Phường Thuận Giao",
+        "codename": "phuong_thuan_giao"
+    },
+    {
+        "name": "Phường Thủ Dầu Một",
+        "codename": "phuong_thu_dau_mot"
+    },
+    {
+        "name": "Phường Phú Lợi",
+        "codename": "phuong_phu_loi"
+    },
+    {
+        "name": "Phường Chánh Hiệp",
+        "codename": "phuong_chanh_hiep"
+    },
+    {
+        "name": "Phường Bình Dương",
+        "codename": "phuong_binh_duong"
+    },
+    {
+        "name": "Phường Hòa Lợi",
+        "codename": "phuong_hoa_loi"
+    },
+    {
+        "name": "Phường Phú An",
+        "codename": "phuong_phu_an"
+    },
+    {
+        "name": "Phường Tây Nam",
+        "codename": "phuong_tay_nam"
+    },
+    {
+        "name": "Phường Long Nguyên",
+        "codename": "phuong_long_nguyen"
+    },
+    {
+        "name": "Phường Bến Cát",
+        "codename": "phuong_ben_cat"
+    },
+    {
+        "name": "Phường Chánh Phú Hòa",
+        "codename": "phuong_chanh_phu_hoa"
+    },
+    {
+        "name": "Phường Vĩnh Tân",
+        "codename": "phuong_vinh_tan"
+    },
+    {
+        "name": "Phường Bình Cơ",
+        "codename": "phuong_binh_co"
+    },
+    {
+        "name": "Phường Tân Uyên",
+        "codename": "phuong_tan_uyen"
+    },
+    {
+        "name": "Phường Tân Hiệp",
+        "codename": "phuong_tan_hiep"
+    },
+    {
+        "name": "Phường Tân Khánh",
+        "codename": "phuong_tan_khanh"
+    },
+    {
+        "name": "Phường Vũng Tàu",
+        "codename": "phuong_vung_tau"
+    },
+    {
+        "name": "Phường Tam Thắng",
+        "codename": "phuong_tam_thang"
+    },
+    {
+        "name": "Phường Rạch Dừa",
+        "codename": "phuong_rach_dua"
+    },
+    {
+        "name": "Phường Phước Thắng",
+        "codename": "phuong_phuoc_thang"
+    },
+    {
+        "name": "Phường Long Hương",
+        "codename": "phuong_long_huong"
+    },
+    {
+        "name": "Phường Bà Rịa",
+        "codename": "phuong_ba_ria"
+    },
+    {
+        "name": "Phường Tam Long",
+        "codename": "phuong_tam_long"
+    },
+    {
+        "name": "Phường Tân Hải",
+        "codename": "phuong_tan_hai"
+    },
+    {
+        "name": "Phường Tân Phước",
+        "codename": "phuong_tan_phuoc"
+    },
+    {
+        "name": "Phường Phú Mỹ",
+        "codename": "phuong_phu_my"
+    },
+    {
+        "name": "Phường Tân Thành",
+        "codename": "phuong_tan_thanh"
+    },
+    {
+        "name": "Xã Vĩnh Lộc",
+        "codename": "xa_vinh_loc"
+    },
+    {
+        "name": "Xã Tân Vĩnh Lộc",
+        "codename": "xa_tan_vinh_loc"
+    },
+    {
+        "name": "Xã Bình Lợi",
+        "codename": "xa_binh_loi"
+    },
+    {
+        "name": "Xã Tân Nhựt",
+        "codename": "xa_tan_nhut"
+    },
+    {
+        "name": "Xã Bình Chánh",
+        "codename": "xa_binh_chanh"
+    },
+    {
+        "name": "Xã Hưng Long",
+        "codename": "xa_hung_long"
+    },
+    {
+        "name": "Xã Bình Hưng",
+        "codename": "xa_binh_hung"
+    },
+    {
+        "name": "Xã Bình Khánh",
+        "codename": "xa_binh_khanh"
+    },
+    {
+        "name": "Xã An Thới Đông",
+        "codename": "xa_an_thoi_dong"
+    },
+    {
+        "name": "Xã Cần Giờ",
+        "codename": "xa_can_gio"
+    },
+    {
+        "name": "Xã Củ Chi",
+        "codename": "xa_cu_chi"
+    },
+    {
+        "name": "Xã Tân An Hội",
+        "codename": "xa_tan_an_hoi"
+    },
+    {
+        "name": "Xã Thái Mỹ",
+        "codename": "xa_thai_my"
+    },
+    {
+        "name": "Xã An Nhơn Tây",
+        "codename": "xa_an_nhon_tay"
+    },
+    {
+        "name": "Xã Nhuận Đức",
+        "codename": "xa_nhuan_duc"
+    },
+    {
+        "name": "Xã Phú Hòa Đông",
+        "codename": "xa_phu_hoa_dong"
+    },
+    {
+        "name": "Xã Bình Mỹ",
+        "codename": "xa_binh_my"
+    },
+    {
+        "name": "Xã Đông Thạnh",
+        "codename": "xa_dong_thanh"
+    },
+    {
+        "name": "Xã Hóc Môn",
+        "codename": "xa_hoc_mon"
+    },
+    {
+        "name": "Xã Xuân Thới Sơn",
+        "codename": "xa_xuan_thoi_son"
+    },
+    {
+        "name": "Xã Bà Điểm",
+        "codename": "xa_ba_diem"
+    },
+    {
+        "name": "Xã Nhà Bè",
+        "codename": "xa_nha_be"
+    },
+    {
+        "name": "Xã Hiệp Phước",
+        "codename": "xa_hiep_phuoc"
+    },
+    {
+        "name": "Xã Thường Tân",
+        "codename": "xa_thuong_tan"
+    },
+    {
+        "name": "Xã Bắc Tân Uyên",
+        "codename": "xa_bac_tan_uyen"
+    },
+    {
+        "name": "Xã Phú Giáo",
+        "codename": "xa_phu_giao"
+    },
+    {
+        "name": "Xã Phước Hòa",
+        "codename": "xa_phuoc_hoa"
+    },
+    {
+        "name": "Xã Phước Thành",
+        "codename": "xa_phuoc_thanh"
+    },
+    {
+        "name": "Xã An Long",
+        "codename": "xa_an_long"
+    },
+    {
+        "name": "Xã Trừ Văn Thố",
+        "codename": "xa_tru_van_tho"
+    },
+    {
+        "name": "Xã Bàu Bàng",
+        "codename": "xa_bau_bang"
+    },
+    {
+        "name": "Xã Long Hòa",
+        "codename": "xa_long_hoa"
+    },
+    {
+        "name": "Xã Thanh An",
+        "codename": "xa_thanh_an"
+    },
+    {
+        "name": "Xã Dầu Tiếng",
+        "codename": "xa_dau_tieng"
+    },
+    {
+        "name": "Xã Minh Thạnh",
+        "codename": "xa_minh_thanh"
+    },
+    {
+        "name": "Xã Châu Pha",
+        "codename": "xa_chau_pha"
+    },
+    {
+        "name": "Xã Long Hải",
+        "codename": "xa_long_hai"
+    },
+    {
+        "name": "Xã Long Điền",
+        "codename": "xa_long_dien"
+    },
+    {
+        "name": "Xã Phước Hải",
+        "codename": "xa_phuoc_hai"
+    },
+    {
+        "name": "Xã Đất Đỏ",
+        "codename": "xa_dat_do"
+    },
+    {
+        "name": "Xã Nghĩa Thành",
+        "codename": "xa_nghia_thanh"
+    },
+    {
+        "name": "Xã Ngãi Giao",
+        "codename": "xa_ngai_giao"
+    },
+    {
+        "name": "Xã Kim Long",
+        "codename": "xa_kim_long"
+    },
+    {
+        "name": "Xã Châu Đức",
+        "codename": "xa_chau_duc"
+    },
+    {
+        "name": "Xã Bình Giã",
+        "codename": "xa_binh_gia"
+    },
+    {
+        "name": "Xã Xuân Sơn",
+        "codename": "xa_xuan_son"
+    },
+    {
+        "name": "Xã Hồ Tràm",
+        "codename": "xa_ho_tram"
+    },
+    {
+        "name": "Xã Xuyên Mộc",
+        "codename": "xa_xuyen_moc"
+    },
+    {
+        "name": "Xã Hòa Hội",
+        "codename": "xa_hoa_hoi"
+    },
+    {
+        "name": "Xã Bàu Lâm",
+        "codename": "xa_bau_lam"
+    },
+    {
+        "name": "Đặc khu Côn Đảo",
+        "codename": "dac_khu_con_dao"
+    },
+    {
+        "name": "Xã Bình Châu",
+        "codename": "xa_binh_chau"
+    },
+    {
+        "name": "Xã Hòa Hiệp",
+        "codename": "xa_hoa_hiep"
+    },
+    {
+        "name": "Xã Long Sơn",
+        "codename": "xa_long_son"
+    },
+    {
+        "name": "Xã Thạnh An",
+        "codename": "xa_thanh_an"
+    },
+    {
+        "name": "Phường Thới Hòa",
+        "codename": "phuong_thoi_hoa"
+    }
+]
+}
